@@ -1,0 +1,255 @@
+@font-face {
+  font-family: moderno;
+  src: url(../font/MuseoModerno.ttf);
+}
+
+@font-face {
+  font-family: oswald;
+  src: url(../font/Oswald-Regular.ttf);
+}
+
+@font-face {
+  font-family: vollkorn;
+  src: url(../font/Vollkorn-Regular.ttf);
+}
+
+@font-face {
+  font-family: vollkorn;
+  src: url(../font/Vollkorn-Bold.ttf);
+	font-weight: bold;
+}
+
+html {
+  justify-content: center;
+  align-items: center;
+  overflow-x: hidden;
+  overflow-Y: scroll;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 120%;
+  font-family: "vollkorn", "Trebuchet MS", sans-serif;
+  color: #d9d9bf;
+  display: grid;
+  background-color: #d2d2be;
+}
+
+.page {
+  display: grid;
+  width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.container-1c, .container-2c {
+  display: grid;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  grid-gap: 0.2vw;
+}
+
+.container-1c {
+  grid-template-columns: 1fr;
+}
+
+.container-2c {
+  grid-template-columns: 1fr 1fr;
+}
+
+.box {
+  width: 96%;
+  float: center;
+  margin-top: 1vh;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 1vh;
+  padding: 4vh;
+	border-radius: 16px;
+}
+
+.box.title {
+	width: 99%;
+	background-color: #d9d9bff4;
+}
+
+.box.red {
+	background-color: #4c2020f4;
+}
+
+.box.green {
+	background-color: #203020f4;
+}
+
+.box.blue {
+	background-color: #1f365ff4;
+}
+
+button {
+  background-color: #d2d2be;
+  font-family: "oswald", "Trebuchet MS", sans-serif;
+  font-size: 130%;
+  border: none;
+  border-radius: 8px;
+  color: #343420;
+  margin: 2px 2px;
+  padding: 2%;
+	width: 60%
+  text-align: center;
+  text-decoration: none;
+  transition-duration: 0.4s;
+}
+
+button:hover {
+  background-color: #343420;
+	color: #d2d2be;
+}
+
+button:active {
+	background-color: #d2d2be;
+	color: #343420;
+}
+
+button.small {
+  width: 35%;
+}
+
+button.big {
+  width: 60%;
+}
+
+h1 {
+	font-family: "moderno", "Trebuchet MS", sans-serif;
+  color: #d2d2be;
+  padding: 0.5vh 3vh 0.5vh 3vh;
+  text-align: center;
+  text-decoration: none;
+}
+
+.animatedtitle {
+  font-family: "moderno", "Trebuchet MS", sans-serif;
+  font-size: 6vw;
+  font-weight: bold;
+  letter-spacing: 1.5vw;
+  animation: color-iteration 1s linear infinite;
+}
+
+.syllable-1 {
+  --color-1: #4c2020;
+  --color-2: #203020;
+  --color-3: #1f365f;
+}
+
+.syllable-2 {
+  --color-1: #1f365f;
+  --color-2: #4c2020;
+  --color-3: #203020;
+}
+
+.syllable-3 {
+  --color-1: #203020;
+  --color-2: #1f365f;
+  --color-3: #4c2020;
+}
+
+@keyframes color-iteration {
+  0%    {color: var(--color-1)}
+  32%   {color: var(--color-1)}
+  33%   {color: var(--color-2)}
+  65%   {color: var(--color-2)}
+  66%   {color: var(--color-3)}
+  99%   {color: var(--color-3)}
+  100%  {color: var(--color-1)}
+}
+
+@media screen and (max-width: 1600px) {
+  .page {
+    width: 70%;
+  }
+	.animatedtitle {
+		font-size: 5vw;
+	}
+	.box.title {
+		width: 98%;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+  .page {
+    width: 90%;
+  }
+	.animatedtitle {
+		font-size: 7vw;
+	}
+	h1{
+		padding: 2vh;
+	}
+}
+
+@media screen and (max-width: 600px) {
+  .page {
+    width: 90%;
+  }
+  .container-2c {
+    grid-template-columns: 1fr;
+  }
+  .animatedtitle {
+    font-size: 7vw;
+    letter-spacing: 1vw;
+  }
+	.box.title {
+		width: 96%;
+	}
+	h1{
+		padding: 2vh;
+	}
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1vh;
+	margin-bottom: 1vh;
+	width: 100%;
+	border-radius: 0px;
+ 	padding: 0.5vh;
+}
+
+a {
+  text-decoration: none;
+}
+a:link {
+  color: #ffffff;
+}
+a:visited{
+  color: #ffffff;
+}
+a:hover {
+  color: #22ccff;
+}
+
+.t_center {
+  text-align: center;
+}
+
+.t_left {
+  text-align: left;
+}
+
+.t_right {
+  text-align: right;
+}
+
+.t_mono {
+  font-family: monospace;
+	font-size: 125%;
+}
