@@ -15,6 +15,8 @@ this case I need to mention:
 
 - [**Python**](https://www.python.org/): one of the programming languages I used.  
 - [**python-chess**](https://github.com/niklasf/python-chess): the library which helps me to process chess moves.  
+- [**Lichess**](https://lichess.org): the site where I play, learn and find inspiration. This project wouldn't be
+possible without the best site to play and learn chess.  
 
 Visit **jaqueludios** site at [azarte.gitlab.io/jaqueludios/](https://azarte.gitlab.io/jaqueludios).  
 
