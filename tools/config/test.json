@@ -1,0 +1,10 @@
+{
+	"name": "test",
+	"period": 1,
+	"sq_size": 135,
+	"size": 1080,
+	"background": "img/boardR.png",
+	"output_path": "output/test",
+	"output_name": "testR",
+	"game_path": "games/pgn_source_00001.pgn"
+}
