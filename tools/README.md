@@ -1,4 +1,4 @@
-![icon](https://gitlab.com/rodrigovalla/jaqueludios/-/raw/themoststable/public/assets/img/logo_64.png)
+![icon](https://gitlab.com/azarte/jaqueludios/-/raw/themoststable/public/assets/img/logo_64.png)
 # jaqueludios: tools
 
 Some tools that help me with **jaqueludios**.  
