@@ -17,3 +17,7 @@ body {
   display: grid;
   background-color: #d2d2be;
 }
+
+img {
+	width: 100%;
+}

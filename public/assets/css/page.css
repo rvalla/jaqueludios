@@ -277,7 +277,7 @@ iframe {
 	display: block;
   background-color: inherit;
   border-width: 0;
-	border-radius: 8px;
+	border-radius: 0px;
   margin-left: auto;
 	margin-right: auto;
   margin-bottom: 2vh;
@@ -363,9 +363,12 @@ img {
  	padding: 0.5vh;
 }
 
-img.vcenter {
+img.card {
   margin-bottom: auto;
   margin-top: auto;
+	max-width: 80vw;
+	max-height: 90vh;
+	width: auto;
 }
 
 img.small {

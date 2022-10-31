@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="author" content="Rodrigo Valla">
+	<meta property="og:title" content="jq: una carta" />
+	<meta property="og:description" content="Una fusión entre la música estocástica y el ajedrez." />
+	<meta property="og:image" content="https://gitlab.com/azarte/jaqueludios/-/raw/themoststable/public/assets/img/banner.png" />
+  <link rel="stylesheet" href="assets/css/page.css">
+  <link rel="icon" href="assets/img/logo_64.png"  type="image/png">
+  <title>jq: una carta</title>
+	<script>
+	window.onload = function(){
+	const p = "../assets/img/cards/card_";
+	var n = Math.floor(Math.random() * 58);
+	console.log(n);
+	var source = p + String(n).padStart(2, "0") + ".png";
+	console.log(source);
+	document.getElementById("card").src = p + String(n).padStart(2, "0") + ".png";;
+	}
+	</script>
+</head>
+
+<body>
+	<section>
+	<div class="page">
+		<div class="container-1c">
+      	<img class="card" src="" id="card" />
+    </div>
+	</div>
+  </section>
+</body>
+</html>
