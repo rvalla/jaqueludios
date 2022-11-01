@@ -1,0 +1,10 @@
+{
+	"name": "test",
+	"period": 4,
+	"sq_size": 135,
+	"size": 1080,
+	"background": "img/boardB.png",
+	"output_path": "output/kasparovkarpov",
+	"output_name": "kasparovkarpov_1981",
+	"game_path": "games/pgn_source_01236.pgn"
+}
