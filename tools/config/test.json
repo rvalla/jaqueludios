@@ -3,8 +3,8 @@
 	"period": 1,
 	"sq_size": 135,
 	"size": 1080,
-	"background": "img/boardR.png",
+	"background": "img/boardG.png",
 	"output_path": "output/test",
-	"output_name": "testR",
-	"game_path": "games/pgn_source_00001.pgn"
+	"output_name": "testT",
+	"game_path": "games/pgn_test.pgn"
 }
