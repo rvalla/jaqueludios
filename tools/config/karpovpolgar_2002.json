@@ -1,0 +1,10 @@
+{
+	"name": "karpovpolgar",
+	"period": 3,
+	"sq_size": 135,
+	"size": 1080,
+	"background": "img/boardB.png",
+	"output_path": "output/karpovpolgar",
+	"output_name": "karpovpolgar_2002",
+	"game_path": "games/karpov_polgar_bali_2002.pgn"
+}
