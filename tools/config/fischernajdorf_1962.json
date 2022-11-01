@@ -1,0 +1,10 @@
+{
+	"name": "fischernajdorf",
+	"period": 1,
+	"sq_size": 135,
+	"size": 1080,
+	"background": "img/boardG.png",
+	"output_path": "output/fischernajdorf",
+	"output_name": "fischernajdorf_1962",
+	"game_path": "games/fischer_najdorf_varna_1962.pgn"
+}
