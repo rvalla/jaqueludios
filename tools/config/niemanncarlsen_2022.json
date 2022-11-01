@@ -1,0 +1,10 @@
+{
+	"name": "niemanncarlsen",
+	"period": 1,
+	"sq_size": 135,
+	"size": 1080,
+	"background": "img/boardR.png",
+	"output_path": "output/niemanncarlsen",
+	"output_name": "niemanncarlsen_2022",
+	"game_path": "games/niemann_carlsen_juliusbaer_2022.pgn"
+}

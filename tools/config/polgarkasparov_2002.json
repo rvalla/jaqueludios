@@ -1,0 +1,10 @@
+{
+	"name": "polgarkasparov",
+	"period": 2,
+	"sq_size": 135,
+	"size": 1080,
+	"background": "img/boardB.png",
+	"output_path": "output/polgarkasparov",
+	"output_name": "polgarkasparov_2002",
+	"game_path": "games/polgar_kasparov_moscu_2002.pgn"
+}
