@@ -73,7 +73,7 @@ body {
 	margin-right: auto;
 	margin-bottom: 1vh;
   padding: 4vh;
-	border-radius: 16px;
+	border-radius: 0px;
 }
 
 .box.title {
@@ -98,7 +98,7 @@ button {
   font-family: "oswald", "Trebuchet MS", sans-serif;
   font-size: 130%;
   border: none;
-  border-radius: 8px;
+  border-radius: 0px;
   color: #343420;
   margin: 2px 2px;
   padding: 2%;
@@ -136,7 +136,7 @@ h1 {
 
 .animatedtitle {
   font-family: "moderno", "Trebuchet MS", sans-serif;
-  font-size: 6vw;
+  font-size: 3.5vw;
   font-weight: bold;
   letter-spacing: 1.5vw;
   animation: color-iteration 1s linear infinite;
@@ -222,6 +222,10 @@ img {
 	width: 100%;
 	border-radius: 0px;
  	padding: 0.5vh;
+}
+
+img.bar {
+	padding: 0vh;
 }
 
 a {

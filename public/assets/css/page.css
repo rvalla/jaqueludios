@@ -86,7 +86,7 @@ body {
 	margin-right: auto;
 	margin-bottom: 1vh;
   padding: 4vh;
-	border-radius: 16px;
+	border-radius: 0px;
 }
 
 .box.title {
@@ -111,7 +111,7 @@ button {
   font-family: "oswald", "Trebuchet MS", sans-serif;
   font-size: 130%;
   border: none;
-  border-radius: 8px;
+  border-radius: 0px;
   color: #343420;
   margin: 2px 2px;
   padding: 2%;
@@ -167,7 +167,7 @@ h3 {
 
 .animatedtitle {
   font-family: "moderno", "Trebuchet MS", sans-serif;
-  font-size: 6vw;
+  font-size: 3.5vw;
   font-weight: bold;
   letter-spacing: 1.5vw;
   animation: color-iteration 1s linear infinite;
@@ -369,6 +369,10 @@ img.card {
 	max-width: 80vw;
 	max-height: 90vh;
 	width: auto;
+}
+
+img.bar {
+	padding: 0vh;
 }
 
 img.small {
