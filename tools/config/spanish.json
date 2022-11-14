@@ -1,0 +1,10 @@
+{
+	"name": "spanish",
+	"period": 1,
+	"sq_size": 135,
+	"size": 1080,
+	"background": "img/boardB.png",
+	"output_path": "output/spanish",
+	"output_name": "spanish",
+	"game_path": "games/pgn_spanish.pgn"
+}
