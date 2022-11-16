@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="author" content="Rodrigo Valla">
+	<!-- Twitter -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:creator" content="@rvallafoto">
+	<meta name="twitter:url" content="https://azarte.gitlab.io/jaqueludios">
+	<meta name="twitter:title" content="jq: Danza de nombres" />
+	<meta name="twitter:description" content="Una fusión entre la música estocástica y el ajedrez." />
+	<meta name="twitter:image" content="https://gitlab.com/azarte/jaqueludios/-/raw/themoststable/public/assets/img/banner.png">
+	<!-- Open Graph -->
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://azarte.gitlab.io/jaqueludios">
+	<meta property="og:title" content="jq: Danza de nombres" />
+	<meta property="og:description" content="Una fusión entre la música estocástica y el ajedrez." />
+	<meta property="og:image" content="https://gitlab.com/azarte/jaqueludios/-/raw/themoststable/public/assets/img/banner.png" />
+  <link rel="stylesheet" href="../assets/css/page.css">
+  <link rel="icon" href="../assets/img/logo_64.png"  type="image/png">
+  <title>jq: Danza de nombres</title>
+	<script>
+	window.onload = function(){
+	const p = "../assets/img/cards/card_";
+	var n = Math.floor(Math.random() * 58);
+	console.log(n);
+	var source = p + String(n).padStart(2, "0") + ".png";
+	console.log(source);
+	document.getElementById("card").src = p + String(n).padStart(2, "0") + ".png";;
+	}
+	</script>
+</head>
+
+<body>
+	<section>
+	<div class="page">
+		<div class="container-1c">
+      <img class="bar" src="../assets/img/bars_1.png" />
+    </div>
+		<div class="container-1c">
+      <div class="box title" >
+				<h1 class=title><span class="animatedtitle syllable-1">ja</span>
+				<span class="animatedtitle syllable-2">que</span>
+				<span class="animatedtitle syllable-3">lu</span>
+				<span class="animatedtitle syllable-1">dios</span>
+			</h1>
+			</div>
+    </div>
+		<div class="container-3c">
+		<div class="box red">
+			<h2>introducción</h2>
+			<p><b>Danza de nombres</b> es el primer <b>jaqueludio</b>. Un preludio estocástico basado en partidas de
+				ajedrez para auditorio de intérpretes. Un pequeño homenaje a las personas que mejor han jugado al ajedrez
+				durante su larga historia. Un juego pensado para un grupo de al menos 32 personas, aunque idealmente deberían
+				ser más de 64.</p>
+		</div>
+		<div class="box blue">
+			<h2>la partida</h2>
+			<p>La única sección de la pieza es condicionada por una partida de ajedrez. Todos los jugadores tienen que poder
+				ver el tablero que reproduce la partida elegida. La elección de la partida es comple&shy;ta&shy;mente libre.
+			 Recomiendo elegir lindas partidas, al menos interesantes, aunque las malas quizás suenen igual.</p>
+		</div>
+		<div class="box green">
+			<h2>el tiempo</h2>
+			<p>Una <b>Danza de nombres</b> dura aproxi&shy;ma&shy;da&shy;mente 90 segundos. La partida elegida se descompone
+				en entre 40 y 50 posiciones del tablero. Cada posición debe mantenerse durante unos 2 segundos.
+				Así, si la partida tiene 24 jugadas puede haber una posición del tablero para cada
+				movimiento pero si tiene 70 jugadas habrá que comprimirla.</p>
+		</div>
+		<div class="box blue">
+			<h2>las cartas</h2>
+			<p>Antes de comenzar cada jugador necesita una carta. Cada carta tiene un nombre y una pieza de ajedrez.</p>
+			<img src="../assets/img/cards_set2.jpg" />
+    </div>
+		<div class="box red">
+			<h2>tu carta</h2>
+			<p>Aquí la computadora eligió al azar una carta para vos. ¿No creés que haya sido al azar? Probá volver a cargar
+			la página.</p>
+				<img src="" id="card" />
+    </div>
+		<div class="box green">
+			<h2>la melodía</h2>
+			<p>Cada jugador compone una breve melodía usando los sonidos del nombre de su carta. No vale usar sonidos que
+				no estén en el nombre de la carta. La melodía no puede durar más de 4 segundos.</p>
+			<p>Carlsen: carl-sen-sen<br>
+				Polgar: <strike>olé-olé</strike> pol-gar<br>
+				Kasparov: kas-pa-pa-kas</p>
+    </div>
+		<div class="box red">
+			<h2>silencio</h2>
+			<p>Al ver el tablero inicial de la partida, el grupo de jugadores hace silencio. En ese momento cada jugador
+				elige la pieza a seguir, respetando el tipo de pieza de su carta (un peón blanco, un alfil negro, etc). La seguirá
+				durante toda la partida.</p>
+				<img src="../assets/img/start_board.png" />
+    </div>
+		<div class="box blue">
+			<h2>largada</h2>
+			<p>Ante el primer movimiento, todos los jugadores comienzan a cantar su melodía, con intensidad media (ni
+				muy fuerte ni muy despacio). La repiten sin parar mientras dure la partida. Pueden variar la melodía si
+				se aburren.</p>
+				<img src="../assets/img/first_move.png" />
+    </div>
+		<div class="box red">
+			<h2>cambios</h2>
+			<p>Puede ocurrir que la pieza que un jugador está siguiendo sea capturada. En ese caso, el jugador seguirá cantando
+				pero con vos de fantasma (susurrando).</p>
+			<p>Además, cada vez que su pieza se mueva, el jugador deberá aplaudir una vez (hacer un ruido chocando ambas
+				manos) sin parar de cantar.</p>
+			<p>El preludio finaliza con la imagen de un tablero vacío. En ese momento, los jugadores dejan de cantar.</p>
+			<p>Pueden aplaudir.</p>
+    </div>
+		<div class="box green">
+			<h2>evaluación</h2>
+			<p>Mientras sigue su pieza por el tablero, el jugador podrá evaluar la posición de la partida. Si considera que
+				su color tiene ventaja cantará más fuerte. Si intuye que su color está en desventaja cantará más suave. Cuanto
+				mayor sea la ventaja (o desventaja) mayor deberá ser el cambio de intensidad.</p>
+				<p>Aquellos intérpretes que se tomen muy en serio su papel, podrán estudiar la partida elegida con ayuda de
+					algún motor de ajedrez. Recomiendo usar un <a target="_blank" href="https://lichess.org/study">estudio de Lichess.</a></p>
+    </div>
+		<div class="box blue">
+			<h2>estreno</h2>
+			<p>Como no podía ser de otra manera, las primeras versiones de <b>Danza de nombres</b> sonaron en el
+				<a target="_blank" href="http://festivaldelingenio.com.ar">13<sup>er</sup> Festival del ingenio</a> en
+				el <a target="_blank" href="https://twitter.com/ccdelaciencia">Centro Cultural de la Ciencia</a>.</p>
+			<p>Podés mirar el <a target="_blank" href="https://youtu.be/VJB_F9mMtdY">video</a> que inmortaliza ese momento
+				en el canal del festival. Incluye la explicación del juego y los brevísimos
+				ensayos previos. Todo transcurrió en 15 minutos. La música la podés escuchar acá mismo.</p>
+    </div>
+		<div class="box green">
+			<h2>Fischer vs. Najdorf</h2>
+			<p>En 1962, en las Olimpíadas de Varna, <i>Bobby Fischer</i> destrozó a <i>Miguel Najdorf</i>. Acá podés escuchar
+				la <b>Danza de nombres</b> basada en <a target="_blank" href="https://lichess.org/study/QEJqRJcu/IHWV4WMR">esta
+				partida</a> por el público del <i>Festival del ingenio</i>.</p>
+				<img src="../assets/img/fischernajdorf_1962.png" />
+				<audio controls><source src="../assets/audio/g4g_fischernajdorf1962_mezcla.ogg">
+								<source src="../assets/audio/g4g_fischernajdorf1962_mezcla.mp3"></audio>
+    </div>
+		<div class="box blue">
+			<h2>Karpov vs. Polgar</h2>
+			<p>En 2002, <i>Judith Polgar</i> venció a <i>Anatoly Karpov</i> en una <a target="_blank"
+				href="https://lichess.org/study/QEJqRJcu/cXtjJsFE">partida</a> larga y peleadísima. El público
+				del <i>Festival del ingenio</i> la hizo sonar así (grabó
+				<a href="">Micaela Montes</a>).</p>
+				<img src="../assets/img/karpovpolgar_2002.png" />
+				<audio controls><source src="../assets/audio/g4g_karpovpolgar2002_mezcla.ogg">
+								<source src="../assets/audio/g4g_karpovpolgar2002_mezcla.mp3"></audio>
+    </div>
+		<div class="box red">
+			<h2>materiales</h2>
+			<p>Si querés llevar a cabo una versión de <b>Danza de nombres</b> podés usar el pequeño programa que
+			escribí para transformar una partida en formato <i>pgn</i> en una serie de imágenes <i>png</i>.
+			Está escrito en <a target="_blank" href="https://www.python.org/">Python</a> y usa la librería
+			<a target="_blank" href="https://python-chess.readthedocs.io/">python-chess</a>. Lo encontrás en
+			<a target="_blank" href="https://gitlab.com/azarte/jaqueludios/-/tree/themoststable/tools">gitlab</a>.</p>
+			<p>Si querés imprimir las cartas podés descargarlas en A3
+			<a target="_blank" href="https://gitlab.com/azarte/jaqueludios/-/tree/themoststable/assets/svg">desde acá</a>.
+			Si no querés imprimir nada, simplemente pedile a los jugadores busquen una carta virtual usando
+			<a target="_blank" href="https://bit.ly/jaquecarta">este enlace</a>.
+    </div>
+		<div class="box blue">
+			<h2>escribí</h2>
+			<p>Si necesitás ayuda para hacer sonar <b>Danza de nombres</b> o querés hacerme llegar cualquier
+			comentario, podés contactarme por <a href="mailto:rodrigovalla@protonmail.ch">mail</a> o buscarme
+			en <a href="https://t.me/rvalla">telegram</a> o <a rel="me" href="https://fosstodon.org/@rvalla">mastodon</a>.</p>
+			<p>Puedo recomendar partidas, ayudar con el análisis de la que hayas elegido e incluso mandarte las imágenes
+			con las posiciones para guiar una interpretación. Si hacés una versión avisame que quiero escuchar.</p>
+			<p><a href="mailto:rodrigovalla@protonmail.ch"><button class="small">escribí</button></a>
+				<a href="faq.html"><button class="small">inicio</button></a></p>
+    </div>
+		</div>
+		<div class="container-1c">
+      <img class="bar" src="../assets/img/bars_0.png" />
+    </div>
+	</div>
+  </section>
+</body>
+</html>
