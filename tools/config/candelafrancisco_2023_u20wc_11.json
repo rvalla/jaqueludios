@@ -1,0 +1,10 @@
+{
+	"name": "krastevafrancisco_11",
+	"period": 2,
+	"sq_size": 135,
+	"size": 1080,
+	"background": "img/boardR.png",
+	"output_path": "output/krasteva_francisco_11",
+	"output_name": "krasteva_francisco_11",
+	"game_path": "games/krasteva_francisco_11.pgn"
+}

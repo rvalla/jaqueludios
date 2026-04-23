@@ -1,0 +1,10 @@
+{
+	"name": "test",
+	"period": 2,
+	"sq_size": 135,
+	"size": 1080,
+	"background": "img/boardB.png",
+	"output_path": "output/anapaolaborda_2023_wc_2_1",
+	"output_name": "anapaolaborda_2023_wc_2_1",
+	"game_path": "games/anapaolaborda_2023_wc_1_1.pgn"
+}

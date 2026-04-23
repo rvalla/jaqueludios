@@ -1,0 +1,10 @@
+{
+	"name": "test",
+	"period": 2,
+	"sq_size": 135,
+	"size": 1080,
+	"background": "img/boardG.png",
+	"output_path": "output/candelafrancisco_2023_wc_2_1",
+	"output_name": "candelafrancisco_2023_wc_1_2",
+	"game_path": "games/candelafrancisco_2023_wc_1_2.pgn"
+}

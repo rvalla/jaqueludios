@@ -1,0 +1,10 @@
+{
+	"name": "test",
+	"period": 6,
+	"sq_size": 135,
+	"size": 1080,
+	"background": "img/boardG.png",
+	"output_path": "output/carlsen_2024_scch_1_5",
+	"output_name": "carlsen_2024_scch_1_5",
+	"game_path": "games/carlsen_2024_scch_1_5.pgn"
+}

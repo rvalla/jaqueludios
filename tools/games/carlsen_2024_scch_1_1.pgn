@@ -1,0 +1,27 @@
+[Event "Main Event"]
+[Site "https://www.chess.com"]
+[Date "2024.09.08"]
+[Round "4.31"]
+[White "Carlsen, Magnus"]
+[Black "Firouzja, Alireza"]
+[Result "1-0"]
+[Board "31"]
+[TimeControl "60+1"]
+[WhiteFideId "1503014"]
+[BlackFideId "12573981"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "3205"]
+[BlackElo "3162"]
+[WhiteTeam "NOR"]
+[BlackTeam "FRA"]
+[WhiteClock "0:00:45"]
+[BlackClock "0:01:01"]
+[Variant "Standard"]
+
+1. e4 {[%clk 0:01:01]}  e6 {[%clk 0:00:58]} 2. d4 {[%clk 0:01:00]}  d5 {[%clk 0:00:59]} 3. exd5 {[%clk 0:01:01]}  exd5 {[%clk 0:00:59]}
+4. Nf3 {[%clk 0:01:02]}  Bd6 {[%clk 0:01:00]} 5. c4 {[%clk 0:01:01]}  Nf6 {[%clk 0:01:00]} 6. c5 {[%clk 0:01:00]}  Be7 {[%clk 0:01:01]}
+7. h3 {[%clk 0:00:59]}  O-O {[%clk 0:01:02]} 8. Bd3 {[%clk 0:00:59]}  Nc6 {[%clk 0:01:02]} 9. O-O {[%clk 0:00:59]}  Ne4 {[%clk 0:01:02]}
+10. Nc3 {[%clk 0:00:59]}  Bf5 {[%clk 0:01:02]} 11. Re1 {[%clk 0:00:59]}  Bf6 {[%clk 0:01:02]} 12. Nxe4 {[%clk 0:00:52]}  dxe4 {[%clk 0:01:03]}
+13. Bxe4 {[%clk 0:00:53]}  Bxe4 {[%clk 0:01:02]} 14. Rxe4 {[%clk 0:00:54]}  Qd5 {[%clk 0:01:02]} 15. Rf4 {[%clk 0:00:54]}  Rad8 {[%clk 0:01:02]} 16. Be3 {[%clk 0:00:53]}  Rfe8 {[%clk 0:01:02]} 17. Qc2 {[%clk 0:00:45]}  Nb4 {[%clk 0:01:01]} 1-0
+

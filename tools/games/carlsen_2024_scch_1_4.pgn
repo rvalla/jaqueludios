@@ -1,0 +1,23 @@
+[Event "Main Event"]
+[Site "https://www.chess.com"]
+[Date "2024.09.07"]
+[Round "4.29"]
+[White "Nakamura, Hikaru"]
+[Black "Niemann, Hans Moke"]
+[Result "1-0"]
+[Board "29"]
+[TimeControl "60+1"]
+[WhiteFideId "2016192"]
+[BlackFideId "2093596"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "3245"]
+[BlackElo "3103"]
+[WhiteTeam "USA"]
+[BlackTeam "USA"]
+[WhiteClock "0:00:47"]
+[BlackClock "0:00:42"]
+[Variant "Standard"]
+
+1. e4 {[%clk 0:01:01]}  g6 {[%clk 0:01:00]} 2. d4 {[%clk 0:01:01]}  Bg7 {[%clk 0:01:01]} 3. Nf3 {[%clk 0:01:01]}  c6 {[%clk 0:01:01]} 4. Bd3 {[%clk 0:01:02]}  d5 {[%clk 0:01:02]} 5. e5 {[%clk 0:01:02]}  Bg4 {[%clk 0:01:02]} 6. Nbd2 {[%clk 0:01:03]}  e6 {[%clk 0:01:01]} 7. h3 {[%clk 0:01:03]}  Bxf3 {[%clk 0:01:02]} 8. Nxf3 {[%clk 0:01:04]}  Nd7 {[%clk 0:01:02]} 9. c3 {[%clk 0:01:04]}  Ne7 {[%clk 0:01:03]} 10. O-O {[%clk 0:01:05]}  c5 {[%clk 0:01:03]} 11. h4 {[%clk 0:01:05]}  h6 {[%clk 0:01:02]} 12. Bf4 {[%clk 0:01:04]}  Nc6 {[%clk 0:01:03]} 13. Qd2 {[%clk 0:01:05]}  Qb6 {[%clk 0:01:03]} 14. Be3 {[%clk 0:01:05]}  cxd4 {[%clk 0:01:03]} 15. cxd4 {[%clk 0:01:05]}  Qb4 {[%clk 0:01:02]} 16. Qe2 {[%clk 0:01:06]}  Rc8 {[%clk 0:01:02]} 17. Rfc1 {[%clk 0:01:06]}  O-O {[%clk 0:01:02]} 18. Rc3 {[%clk 0:01:06]}  Ne7 {[%clk 0:01:01]} 19. Qd2 {[%clk 0:01:06]}  Kh7 {[%clk 0:00:56]} 20. h5 {[%clk 0:01:03]}  Rxc3 {[%clk 0:00:53]} 21. bxc3 {[%clk 0:01:03]}  Qa5 {[%clk 0:00:54]} 22. Rb1 {[%clk 0:00:51]}  Nb6 {[%clk 0:00:54]} 23. Rb5 {[%clk 0:00:50]}  Qa4 {[%clk 0:00:54]} 24. Rb4 {[%clk 0:00:51]}  Qc6 {[%clk 0:00:54]} 25. Rb3 {[%clk 0:00:49]}  Nc4 {[%clk 0:00:54]} 26. Qe2 {[%clk 0:00:49]}  b5 {[%clk 0:00:55]} 27. Nh4 {[%clk 0:00:48]}  Nf5 {[%clk 0:00:55]} 28. hxg6+ {[%clk 0:00:48]}  fxg6 {[%clk 0:00:55]} 29. Nxg6 {[%clk 0:00:48]}  Kxg6 {[%clk 0:00:55]} 30. g4 {[%clk 0:00:49]}  Kh7 {[%clk 0:00:55]} 31. gxf5 {[%clk 0:00:49]}  exf5 {[%clk 0:00:56]} 32. Qh5 {[%clk 0:00:49]}  Qd7 {[%clk 0:00:54]} 33. Bf4 {[%clk 0:00:47]}  Kh8 {[%clk 0:00:51]} 34. Kh2 {[%clk 0:00:47]}  Qc6 {[%clk 0:00:48]} 35. Rb1 {[%clk 0:00:47]}  Na3 {[%clk 0:00:42]} 36. Rg1 {[%clk 0:00:47]} 1-0
+

@@ -1,0 +1,23 @@
+[Event "Main Event"]
+[Site "https://www.chess.com"]
+[Date "2024.09.08"]
+[Round "4.29"]
+[White "Carlsen, Magnus"]
+[Black "Firouzja, Alireza"]
+[Result "1-0"]
+[Board "29"]
+[TimeControl "60+1"]
+[WhiteFideId "1503014"]
+[BlackFideId "12573981"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "3190"]
+[BlackElo "3177"]
+[WhiteTeam "NOR"]
+[BlackTeam "FRA"]
+[WhiteClock "0:00:36"]
+[BlackClock "0:00:53"]
+[Variant "Standard"]
+
+1. e4 {[%clk 0:01:01]}  c5 {[%clk 0:00:59]} 2. Nf3 {[%clk 0:01:00]}  Nc6 {[%clk 0:01:00]} 3. d4 {[%clk 0:01:00]}  cxd4 {[%clk 0:01:01]} 4. Nxd4 {[%clk 0:01:01]}  Nf6 {[%clk 0:01:02]} 5. Nc3 {[%clk 0:01:01]}  e5 {[%clk 0:01:02]} 6. Ndb5 {[%clk 0:01:02]}  Bc5 {[%clk 0:01:03]} 7. Nd6+ {[%clk 0:01:01]}  Ke7 {[%clk 0:01:03]} 8. Nf5+ {[%clk 0:01:01]}  Kf8 {[%clk 0:01:04]} 9. Be3 {[%clk 0:01:01]}  Bb4 {[%clk 0:01:03]} 10. Ng3 {[%clk 0:00:57]}  d5 {[%clk 0:01:03]} 11. Bd2 {[%clk 0:00:57]}  d4 {[%clk 0:01:03]} 12. Nb1 {[%clk 0:00:56]}  Bd6 {[%clk 0:01:03]} 13. Bd3 {[%clk 0:00:54]}  h5 {[%clk 0:01:04]} 14. h3 {[%clk 0:00:54]}  h4 {[%clk 0:01:04]} 15. Ne2 {[%clk 0:00:55]}  Nh5 {[%clk 0:01:04]} 16. c3 {[%clk 0:00:54]}  g5 {[%clk 0:01:04]} 17. Na3 {[%clk 0:00:52]}  Bxa3 {[%clk 0:01:04]} 18. bxa3 {[%clk 0:00:52]}  Nf4 {[%clk 0:01:05]} 19. Nxf4 {[%clk 0:00:51]}  gxf4 {[%clk 0:01:06]} 20. Bb5 {[%clk 0:00:51]}  Rg8 {[%clk 0:01:03]} 21. Bxc6 {[%clk 0:00:50]}  bxc6 {[%clk 0:01:04]} 22. cxd4 {[%clk 0:00:50]}  Qxd4 {[%clk 0:01:04]} 23. Bb4+ {[%clk 0:00:50]}  Ke8 {[%clk 0:01:04]} 24. Qxd4 {[%clk 0:00:51]}  exd4 {[%clk 0:01:05]} 25. Rd1 {[%clk 0:00:47]}  Rxg2 {[%clk 0:01:03]} 26. Rxd4 {[%clk 0:00:48]}  Be6 {[%clk 0:01:04]} 27. Ke2 {[%clk 0:00:47]}  Rd8 {[%clk 0:01:01]} 28. Rxd8+ {[%clk 0:00:47]}  Kxd8 {[%clk 0:01:02]} 29. Kf3 {[%clk 0:00:47]}  Rg6 {[%clk 0:01:02]} 30. Kxf4 {[%clk 0:00:48]}  Bxa2 {[%clk 0:01:02]} 31. Rd1+ {[%clk 0:00:42]}  Ke8 {[%clk 0:01:02]} 32. Ba5 {[%clk 0:00:42]}  Be6 {[%clk 0:01:02]} 33. Rd8+ {[%clk 0:00:42]}  Ke7 {[%clk 0:01:03]} 34. Ra8 {[%clk 0:00:41]}  Bxh3 {[%clk 0:01:03]} 35. Rxa7+ {[%clk 0:00:39]}  Ke6 {[%clk 0:01:04]} 36. Bd8 {[%clk 0:00:37]}  f5 {[%clk 0:00:56]} 37. exf5+ {[%clk 0:00:35]}  Bxf5 {[%clk 0:00:53]} 38. Re7+ {[%clk 0:00:35]}  Kd6 {[%clk 0:00:54]} 39. Kxf5 {[%clk 0:00:35]}  Rg8 {[%clk 0:00:54]} 40. Re6+ {[%clk 0:00:36]}  Kd5 {[%clk 0:00:53]} 41. Bxh4 {[%clk 0:00:36]} 1-0
+

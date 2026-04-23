@@ -1,0 +1,10 @@
+{
+	"name": "test",
+	"period": 4,
+	"sq_size": 135,
+	"size": 1080,
+	"background": "img/boardR.png",
+	"output_path": "output/mariajosecampos_2023_wc_4_1",
+	"output_name": "mariajosecampose_2023_wc_4_1",
+	"game_path": "games/mariajosecampos_2023_wc_1_1.pgn"
+}

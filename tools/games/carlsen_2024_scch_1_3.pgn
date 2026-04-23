@@ -1,0 +1,23 @@
+[Event "Main Event"]
+[Site "https://www.chess.com"]
+[Date "2024.09.08"]
+[Round "4.30"]
+[White "Firouzja, Alireza"]
+[Black "Carlsen, Magnus"]
+[Result "0-1"]
+[Board "30"]
+[TimeControl "60+1"]
+[WhiteFideId "12573981"]
+[BlackFideId "1503014"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "3169"]
+[BlackElo "3198"]
+[WhiteTeam "FRA"]
+[BlackTeam "NOR"]
+[WhiteClock "0:00:59"]
+[BlackClock "0:00:27"]
+[Variant "Standard"]
+
+1. e4 {[%clk 0:01:01]}  e5 {[%clk 0:00:59]} 2. Nf3 {[%clk 0:01:01]}  Nc6 {[%clk 0:01:00]} 3. Bb5 {[%clk 0:01:02]}  a6 {[%clk 0:01:00]} 4. Bxc6 {[%clk 0:01:02]}  dxc6 {[%clk 0:01:00]} 5. O-O {[%clk 0:01:03]}  Qf6 {[%clk 0:00:58]} 6. d3 {[%clk 0:01:01]}  Ne7 {[%clk 0:00:55]} 7. Be3 {[%clk 0:01:00]}  Ng6 {[%clk 0:00:55]} 8. Nbd2 {[%clk 0:01:01]}  c5 {[%clk 0:00:54]} 9. Re1 {[%clk 0:01:01]}  b6 {[%clk 0:00:50]} 10. c3 {[%clk 0:01:02]}  Bb7 {[%clk 0:00:51]} 11. d4 {[%clk 0:01:03]}  exd4 {[%clk 0:00:49]} 12. cxd4 {[%clk 0:01:04]}  cxd4 {[%clk 0:00:50]} 13. Bxd4 {[%clk 0:01:04]}  Qe6 {[%clk 0:00:47]} 14. Rc1 {[%clk 0:01:04]}  c5 {[%clk 0:00:48]} 15. Be3 {[%clk 0:01:05]}  Be7 {[%clk 0:00:47]} 16. e5 {[%clk 0:01:03]}  O-O {[%clk 0:00:47]} 17. Nc4 {[%clk 0:01:04]}  Rad8 {[%clk 0:00:46]} 18. Qe2 {[%clk 0:01:03]}  Rfe8 {[%clk 0:00:45]} 19. b3 {[%clk 0:01:01]}  h6 {[%clk 0:00:45]} 20. Rcd1 {[%clk 0:01:01]}  Rxd1 {[%clk 0:00:40]} 21. Rxd1 {[%clk 0:01:02]}  Bxf3 {[%clk 0:00:40]} 22. Qxf3 {[%clk 0:01:02]}  b5 {[%clk 0:00:40]} 23. Na5 {[%clk 0:00:59]}  Nxe5 {[%clk 0:00:40]} 24. Qe4 {[%clk 0:01:00]}  c4 {[%clk 0:00:34]} 25. bxc4 {[%clk 0:01:00]}  Bb4 {[%clk 0:00:32]} 26. Nb7 {[%clk 0:00:55]}  Nxc4 {[%clk 0:00:28]} 27. Qxe6 {[%clk 0:00:56]}  Rxe6 {[%clk 0:00:29]} 28. Bc5 {[%clk 0:00:56]}  Bxc5 {[%clk 0:00:25]} 29. Nxc5 {[%clk 0:00:57]}  Re2 {[%clk 0:00:25]} 30. Nxa6 {[%clk 0:00:58]}  Rxa2 {[%clk 0:00:25]} 31. Nb4 {[%clk 0:00:58]}  Rb2 {[%clk 0:00:25]} 32. Nd3 {[%clk 0:00:59]}  Rd2 {[%clk 0:00:25]} 33. Rxd2 {[%clk 0:00:59]}  Nxd2 {[%clk 0:00:26]} 34. f3 {[%clk 0:01:00]}  Kf8 {[%clk 0:00:27]} 35. Kf2 {[%clk 0:01:01]}  Nc4 {[%clk 0:00:27]} 36. Ke2 {[%clk 0:01:00]}  Ke7 {[%clk 0:00:27]} 37. Kd1 {[%clk 0:00:59]}  Ne3+ {[%clk 0:00:27]} 0-1
+
