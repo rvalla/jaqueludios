@@ -1,0 +1,1479 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3200"
+   height="3200"
+   viewBox="0 0 846.66665 846.66666"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="tablero.svg"
+   inkscape:export-filename="../png/boardBWL.png"
+   inkscape:export-xdpi="32.400002"
+   inkscape:export-ydpi="32.400002"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.1562638"
+     inkscape:cx="1868.635"
+     inkscape:cy="1561.4621"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g49"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16"
+       patternTransform="rotate(45,52.916666,127.75213)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8-5"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16-7"
+       patternTransform="rotate(45,370.41667,894.26493)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8-5"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170-3" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8-2"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16-1"
+       patternTransform="rotate(44.999999,264.58334,638.76067)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8-2"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170-7" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8-6"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16-0"
+       patternTransform="rotate(45,158.75,383.2564)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8-6"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170-2" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8-5-2"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16-7-9"
+       patternTransform="rotate(45.000003,189.74787,819.42943)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8-5-2"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170-3-0" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8-2-3"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16-1-2"
+       patternTransform="rotate(45.000002,83.914537,563.92522)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8-2-3"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170-7-7" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8-6-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16-0-5"
+       patternTransform="rotate(45.000003,-21.918788,308.42095)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8-6-9"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170-2-2" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8-8"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16-2"
+       patternTransform="rotate(45.000003,-127.75212,52.9167)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8-8"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170-9" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8-5-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16-7-1"
+       patternTransform="rotate(45,114.91241,1000.0983)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8-5-9"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170-3-4" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8-2-8"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16-1-7"
+       patternTransform="rotate(44.999999,9.0790679,744.594)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8-2-8"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170-7-4" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8-6-3"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16-0-50"
+       patternTransform="rotate(45,-96.754262,489.08972)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8-6-3"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170-2-6" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8-63"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16-10"
+       patternTransform="rotate(45,-202.58759,233.58545)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8-63"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170-20" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8-5-6"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16-7-5"
+       patternTransform="rotate(45,-65.756388,925.26281)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8-5-6"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170-3-9" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8-2-7"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16-1-3"
+       patternTransform="rotate(44.999999,-171.58973,669.75854)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8-2-7"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170-7-45" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8-6-5"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16-0-2"
+       patternTransform="rotate(45,-277.42306,414.25428)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8-6-5"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170-2-4" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8-4"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16-74"
+       patternTransform="rotate(45,-383.2564,158.75001)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8-4"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170-30" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8-5-0"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16-7-92"
+       patternTransform="rotate(45,-140.59185,1105.9316)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8-5-0"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170-3-6" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8-2-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16-1-8"
+       patternTransform="rotate(44.999999,-246.42519,850.42728)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8-2-9"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170-7-2" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8-6-6"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16-0-6"
+       patternTransform="rotate(45,-352.25852,594.923)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8-6-6"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170-2-49" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8-0"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16-5"
+       patternTransform="rotate(45,-458.09186,339.4188)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8-0"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170-4" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8-5-2-7"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16-7-9-8"
+       patternTransform="rotate(45.000003,-321.26061,1031.096)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8-5-2-7"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170-3-0-1" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8-5-9-2"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16-7-1-7"
+       patternTransform="rotate(45,-396.09611,1211.7649)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8-5-9-2"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170-3-4-7" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8-2-8-2"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16-1-7-2"
+       patternTransform="rotate(44.999999,-501.92946,956.26068)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8-2-8-2"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170-7-4-6" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8-6-3-0"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16-0-50-1"
+       patternTransform="rotate(45,-607.76279,700.7564)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8-6-3-0"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170-2-6-6" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8-63-5"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16-10-1"
+       patternTransform="rotate(45,-713.59611,445.2521)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8-63-5"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170-20-9" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8-2-3-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16-1-2-4"
+       patternTransform="rotate(45.000002,-427.09396,775.59184)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8-2-3-9"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170-7-7-0" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8-6-9-1"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16-0-5-9"
+       patternTransform="rotate(45.000003,-532.92727,520.08755)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8-6-9-1"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170-2-2-7" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8-8-1"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16-2-7"
+       patternTransform="rotate(45.000003,-638.7606,264.58334)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8-8-1"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170-9-1" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8-5-6-9"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16-7-5-5"
+       patternTransform="rotate(45,-576.76491,1136.9295)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8-5-6-9"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170-3-9-7" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8-2-7-6"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16-1-3-7"
+       patternTransform="rotate(44.999999,-682.59826,881.42518)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8-2-7-6"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170-7-45-7" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8-6-5-6"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16-0-2-3"
+       patternTransform="rotate(45,-788.43158,625.9209)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8-6-5-6"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170-2-4-5" />
+    </pattern>
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#Strips1_8-4-3"
+       preserveAspectRatio="xMidYMid"
+       id="pattern16-74-6"
+       patternTransform="rotate(45,-894.26492,370.4167)"
+       x="0"
+       y="0" />
+    <pattern
+       inkscape:collect="always"
+       patternUnits="userSpaceOnUse"
+       width="9"
+       height="1"
+       patternTransform="translate(0,0) scale(2,2)"
+       preserveAspectRatio="xMidYMid"
+       id="Strips1_8-4-3"
+       style="fill:#000000"
+       inkscape:stockid="Stripes 07 (1:8)"
+       inkscape:isstock="true"
+       inkscape:label="Rayas 07 (1:8)">
+      <rect
+         style="stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect170-30-9" />
+    </pattern>
+  </defs>
+  <g
+     inkscape:label="tablero"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.89052;stroke-dasharray:none"
+       id="rect16"
+       width="846.66663"
+       height="846.66663"
+       x="-2.8421709e-14"
+       y="0"
+       inkscape:label="fondo" />
+    <rect
+       style="fill:url(#pattern16-7);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1-6"
+       width="105.83333"
+       height="105.83333"
+       x="740.83331"
+       y="7.1054274e-15"
+       inkscape:label="h8" />
+    <rect
+       style="fill:url(#pattern16-1);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1-9"
+       width="105.83333"
+       height="105.83333"
+       x="529.16669"
+       y="7.1054274e-15"
+       inkscape:label="f8" />
+    <rect
+       style="fill:url(#pattern16-0);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1-1"
+       width="105.83333"
+       height="105.83333"
+       x="317.5"
+       y="7.1054274e-15"
+       inkscape:label="d8" />
+    <rect
+       style="fill:url(#pattern16);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1"
+       width="105.83333"
+       height="105.83333"
+       x="105.83333"
+       y="0"
+       inkscape:label="b8" />
+    <rect
+       style="fill:url(#pattern16-7-9);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1-6-3"
+       width="105.83332"
+       height="105.83333"
+       x="635"
+       y="105.83333"
+       inkscape:label="g7" />
+    <rect
+       style="fill:url(#pattern16-7-1);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1-6-1"
+       width="105.83333"
+       height="105.83333"
+       x="740.83331"
+       y="211.66666"
+       inkscape:label="h8" />
+    <rect
+       style="fill:url(#pattern16-1-7);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1-9-5"
+       width="105.83333"
+       height="105.83333"
+       x="529.16669"
+       y="211.66666"
+       inkscape:label="b8" />
+    <rect
+       style="fill:url(#pattern16-0-50);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1-1-5"
+       width="105.83333"
+       height="105.83333"
+       x="317.5"
+       y="211.66666"
+       inkscape:label="b8" />
+    <rect
+       style="fill:url(#pattern16-10);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1-4"
+       width="105.83333"
+       height="105.83333"
+       x="105.83333"
+       y="211.66666"
+       inkscape:label="b8" />
+    <rect
+       style="fill:url(#pattern16-1-2);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1-9-6"
+       width="105.83332"
+       height="105.83333"
+       x="423.33334"
+       y="105.83333"
+       inkscape:label="e7" />
+    <rect
+       style="fill:url(#pattern16-0-5);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1-1-1"
+       width="105.83332"
+       height="105.83333"
+       x="211.66667"
+       y="105.83333"
+       inkscape:label="c7" />
+    <rect
+       style="fill:url(#pattern16-2);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1-2"
+       width="105.83332"
+       height="105.83333"
+       x="0"
+       y="105.83333"
+       inkscape:label="a7" />
+    <rect
+       style="fill:url(#pattern16-7-5);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1-6-8"
+       width="105.83333"
+       height="105.83333"
+       x="635"
+       y="317.5"
+       inkscape:label="h8" />
+    <rect
+       style="fill:url(#pattern16-1-3);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1-9-68"
+       width="105.83333"
+       height="105.83333"
+       x="423.33334"
+       y="317.5"
+       inkscape:label="b8" />
+    <rect
+       style="fill:url(#pattern16-0-2);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1-1-8"
+       width="105.83333"
+       height="105.83333"
+       x="211.66667"
+       y="317.5"
+       inkscape:label="b8" />
+    <rect
+       style="fill:url(#pattern16-74);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1-43"
+       width="105.83333"
+       height="105.83333"
+       x="0"
+       y="317.5"
+       inkscape:label="b8" />
+    <rect
+       style="fill:url(#pattern16-7-92);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1-6-81"
+       width="105.83333"
+       height="105.83333"
+       x="740.83325"
+       y="423.33331"
+       inkscape:label="h8" />
+    <rect
+       style="fill:url(#pattern16-1-8);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1-9-2"
+       width="105.83333"
+       height="105.83333"
+       x="529.16663"
+       y="423.33331"
+       inkscape:label="f8" />
+    <rect
+       style="fill:url(#pattern16-0-6);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1-1-9"
+       width="105.83333"
+       height="105.83333"
+       x="317.5"
+       y="423.33331"
+       inkscape:label="d8" />
+    <rect
+       style="fill:url(#pattern16-5);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1-3"
+       width="105.83333"
+       height="105.83333"
+       x="105.83331"
+       y="423.33331"
+       inkscape:label="b8" />
+    <rect
+       style="fill:url(#pattern16-7-9-8);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1-6-3-9"
+       width="105.83332"
+       height="105.83333"
+       x="635"
+       y="529.16663"
+       inkscape:label="g7" />
+    <rect
+       style="fill:url(#pattern16-7-1-7);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1-6-1-0"
+       width="105.83333"
+       height="105.83333"
+       x="740.83325"
+       y="635"
+       inkscape:label="h8" />
+    <rect
+       style="fill:url(#pattern16-1-7-2);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1-9-5-8"
+       width="105.83333"
+       height="105.83333"
+       x="529.16663"
+       y="635"
+       inkscape:label="b8" />
+    <rect
+       style="fill:url(#pattern16-0-50-1);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1-1-5-8"
+       width="105.83333"
+       height="105.83333"
+       x="317.5"
+       y="635"
+       inkscape:label="b8" />
+    <rect
+       style="fill:url(#pattern16-10-1);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1-4-5"
+       width="105.83333"
+       height="105.83333"
+       x="105.83331"
+       y="635"
+       inkscape:label="b8" />
+    <rect
+       style="fill:url(#pattern16-1-2-4);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1-9-6-0"
+       width="105.83332"
+       height="105.83333"
+       x="423.33337"
+       y="529.16663"
+       inkscape:label="e7" />
+    <rect
+       style="fill:url(#pattern16-0-5-9);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1-1-1-9"
+       width="105.83332"
+       height="105.83333"
+       x="211.66669"
+       y="529.16663"
+       inkscape:label="c7" />
+    <rect
+       style="fill:url(#pattern16-2-7);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1-2-6"
+       width="105.83332"
+       height="105.83333"
+       x="0"
+       y="529.16663"
+       inkscape:label="a7" />
+    <rect
+       style="fill:url(#pattern16-7-5-5);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1-6-8-3"
+       width="105.83333"
+       height="105.83333"
+       x="635"
+       y="740.83331"
+       inkscape:label="h8" />
+    <rect
+       style="fill:url(#pattern16-1-3-7);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1-9-68-8"
+       width="105.83333"
+       height="105.83333"
+       x="423.33337"
+       y="740.83331"
+       inkscape:label="b8" />
+    <rect
+       style="fill:url(#pattern16-0-2-3);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1-1-8-5"
+       width="105.83333"
+       height="105.83333"
+       x="211.66669"
+       y="740.83331"
+       inkscape:label="b8" />
+    <rect
+       style="fill:url(#pattern16-74-6);fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect1-43-6"
+       width="105.83333"
+       height="105.83333"
+       x="0"
+       y="740.83331"
+       inkscape:label="b8" />
+  </g>
+  <g
+     inkscape:label="tablero negro"
+     inkscape:groupmode="layer"
+     id="g49"
+     style="display:none">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.89052;stroke-dasharray:none"
+       id="rect17"
+       width="846.66663"
+       height="846.66663"
+       x="-2.8421709e-14"
+       y="0"
+       inkscape:label="fondo" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect18"
+       width="105.83333"
+       height="105.83333"
+       x="740.83331"
+       y="7.1054274e-15"
+       inkscape:label="h8" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect19"
+       width="105.83333"
+       height="105.83333"
+       x="529.16669"
+       y="7.1054274e-15"
+       inkscape:label="f8" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect20"
+       width="105.83333"
+       height="105.83333"
+       x="317.5"
+       y="7.1054274e-15"
+       inkscape:label="d8" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect21"
+       width="105.83333"
+       height="105.83333"
+       x="105.83333"
+       y="0"
+       inkscape:label="b8" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect22"
+       width="105.83332"
+       height="105.83333"
+       x="635"
+       y="105.83333"
+       inkscape:label="g7" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect23"
+       width="105.83333"
+       height="105.83333"
+       x="740.83331"
+       y="211.66666"
+       inkscape:label="h8" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect24"
+       width="105.83333"
+       height="105.83333"
+       x="529.16669"
+       y="211.66666"
+       inkscape:label="b8" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect25"
+       width="105.83333"
+       height="105.83333"
+       x="317.5"
+       y="211.66666"
+       inkscape:label="b8" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect26"
+       width="105.83333"
+       height="105.83333"
+       x="105.83333"
+       y="211.66666"
+       inkscape:label="b8" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect27"
+       width="105.83332"
+       height="105.83333"
+       x="423.33334"
+       y="105.83333"
+       inkscape:label="e7" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect28"
+       width="105.83332"
+       height="105.83333"
+       x="211.66667"
+       y="105.83333"
+       inkscape:label="c7" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect29"
+       width="105.83332"
+       height="105.83333"
+       x="0"
+       y="105.83333"
+       inkscape:label="a7" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect30"
+       width="105.83333"
+       height="105.83333"
+       x="635"
+       y="317.5"
+       inkscape:label="h8" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect31"
+       width="105.83333"
+       height="105.83333"
+       x="423.33334"
+       y="317.5"
+       inkscape:label="b8" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect32"
+       width="105.83333"
+       height="105.83333"
+       x="211.66667"
+       y="317.5"
+       inkscape:label="b8" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect33"
+       width="105.83333"
+       height="105.83333"
+       x="0"
+       y="317.5"
+       inkscape:label="b8" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect34"
+       width="105.83333"
+       height="105.83333"
+       x="740.83325"
+       y="423.33331"
+       inkscape:label="h8" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect35"
+       width="105.83333"
+       height="105.83333"
+       x="529.16663"
+       y="423.33331"
+       inkscape:label="f8" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect36"
+       width="105.83333"
+       height="105.83333"
+       x="317.5"
+       y="423.33331"
+       inkscape:label="d8" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect37"
+       width="105.83333"
+       height="105.83333"
+       x="105.83331"
+       y="423.33331"
+       inkscape:label="b8" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect38"
+       width="105.83332"
+       height="105.83333"
+       x="635"
+       y="529.16663"
+       inkscape:label="g7" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect39"
+       width="105.83333"
+       height="105.83333"
+       x="740.83325"
+       y="635"
+       inkscape:label="h8" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect40"
+       width="105.83333"
+       height="105.83333"
+       x="529.16663"
+       y="635"
+       inkscape:label="b8" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect41"
+       width="105.83333"
+       height="105.83333"
+       x="317.5"
+       y="635"
+       inkscape:label="b8" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect42"
+       width="105.83333"
+       height="105.83333"
+       x="105.83331"
+       y="635"
+       inkscape:label="b8" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect43"
+       width="105.83332"
+       height="105.83333"
+       x="423.33337"
+       y="529.16663"
+       inkscape:label="e7" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect44"
+       width="105.83332"
+       height="105.83333"
+       x="211.66669"
+       y="529.16663"
+       inkscape:label="c7" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect45"
+       width="105.83332"
+       height="105.83333"
+       x="0"
+       y="529.16663"
+       inkscape:label="a7" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect46"
+       width="105.83333"
+       height="105.83333"
+       x="635"
+       y="740.83331"
+       inkscape:label="h8" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect47"
+       width="105.83333"
+       height="105.83333"
+       x="423.33337"
+       y="740.83331"
+       inkscape:label="b8" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect48"
+       width="105.83333"
+       height="105.83333"
+       x="211.66669"
+       y="740.83331"
+       inkscape:label="b8" />
+    <rect
+       style="fill:#393939;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none"
+       id="rect49"
+       width="105.83333"
+       height="105.83333"
+       x="0"
+       y="740.83331"
+       inkscape:label="b8" />
+  </g>
+</svg>
