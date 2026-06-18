@@ -35,7 +35,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g49"
+     inkscape:current-layer="layer1"
      showgrid="false" />
   <defs
      id="defs1">
@@ -942,7 +942,7 @@
      id="layer1"
      style="display:inline">
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.89052;stroke-dasharray:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:#424242;stroke-width:4.99999993;stroke-dasharray:none;stroke-opacity:1"
        id="rect16"
        width="846.66663"
        height="846.66663"
